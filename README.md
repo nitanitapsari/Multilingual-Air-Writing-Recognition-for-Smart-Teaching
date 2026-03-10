@@ -1,0 +1,2 @@
+# Multilingual-Air-Writing-Recognition-for-Smart-Teaching
+We presents a multilingual air-writing recognition system for smart teaching applications. Wearable strain sensors capture time-series signals from air-writing gestures, which are processed using machine learning and deep learning models to recognize characters and numbers, converting gestures into digital text in English, Korean, and Japanese.
